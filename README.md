@@ -1,1 +1,1 @@
-# naan-mudhalvan-powered-library-manangement
+# naan-mudhalvan-powered-library-management
